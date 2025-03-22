@@ -8,12 +8,13 @@ authors:
     role: developer
 tagline: ICON PACK for the Affinity Suite
 about: >
-  Lucide is a simple icon pack for the Affinity Suite. It is
+  A simple icon pack for the Affinity Suite. It contains the icons
+  of the Lucide project (lucide.dev), and was
   designed to be easily searchable. The icons support different
   styles and colors.
 
   The Affinity Designer Logo is a registered trademark of Serif Europe Ltd.
-  This Pack is not affiliated with Serif Europe Ltd.
+  This Pack is not affiliated with Serif Europe Ltd or the Lucide Contributors.
 icon: https://raw.githubusercontent.com/RobinNaumann/lucide_affinity/main/assets/logo.png
 source: https://github.com/RobinNaumann/lucide_affinity
 donate: https://robbb.in/donate
