@@ -24,6 +24,6 @@ releases:
   - version: 1.0.0
     downloads:
       - platform: AffinitySuite
-        url: https://github.com/RobinNaumann/lucide_affinity/main/lucide.afassets
+        url: https://raw.githubusercontent.com/RobinNaumann/lucide_affinity/main/lucide.afassets
       #- platform: macOS-AppStore
       #  url: https://github.com/RobinNaumann/disko/releases/latest/download/Disko.app.zip
