@@ -1,0 +1,29 @@
+# dego is a simple knowledge management tool. It allows me to publish
+# information about projects, tools in a decentralized way.
+# for a usecase, check out apps.robbb.in
+
+name: Lucide for Affinity
+authors:
+  - ref: https://gist.githubusercontent.com/RobinNaumann/7d9d5b8902a697cda1f0ba2c5b7234c6/raw/46ebed8489de7e4458335ae434fee986d594504b/robin.degu.yaml
+    role: developer
+tagline: ICON PACK for the Affinity Suite
+about: >
+  Lucide is a simple icon pack for the Affinity Suite. It is
+  designed to be easily searchable. The icons support different
+  styles and colors.
+
+  The Affinity Designer Logo is a registered trademark of Serif Europe Ltd.
+  This Pack is not affiliated with Serif Europe Ltd.
+icon: https://raw.githubusercontent.com/RobinNaumann/lucide_affinity/main/assets/icon.png
+source: https://github.com/RobinNaumann/lucide_affinity
+donate: https://robbb.in/donate
+screenshots:
+  - https://raw.githubusercontent.com/RobinNaumann/lucide_affinity/main/assets/sc_1.png
+  - https://raw.githubusercontent.com/RobinNaumann/lucide_affinity/main/assets/sc_2.png
+releases:
+  - version: 1.0.0
+    downloads:
+      - platform: AffinitySuite
+        url: https://github.com/RobinNaumann/lucide_affinity/main/lucide.afassets
+      #- platform: macOS-AppStore
+      #  url: https://github.com/RobinNaumann/disko/releases/latest/download/Disko.app.zip
